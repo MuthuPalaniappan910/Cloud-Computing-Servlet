@@ -1,0 +1,11 @@
+
+e
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÃŽèïûÿÿÿÿ
+c
+java:S1192"FDefine a constant instead of duplicating this literal "login" 4 times.(Íý‡Ç8•Çˆë‰0
+o
+java:S1192"MDefine a constant instead of duplicating this literal "errorMessage" 3 times.(Ü·µ´ÿÿÿÿÿ8•Çˆë‰0
+s
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(ÕÙ¹³úÿÿÿÿ
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú­Ç†
